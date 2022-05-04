@@ -13,7 +13,10 @@
 
 
 ### Use style  
-<img src="https://img.shields.io/badge/MaterialDesign-757575?style=flat-square&logo=MaterialDesign&logoColor=000000"/> <img src="https://img.shields.io/badge/MaterialDesignIcons-757575?style=flat-square&logo=MaterialDesignIcons&logoColor=green"/> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=green"/> 
+<div align="center">
+ <img src="https://img.shields.io/badge/MaterialDesign-757575?style=flat-square&logo=MaterialDesign&logoColor=000000"/> <img src="https://img.shields.io/badge/MaterialDesignIcons-757575?style=flat-square&logo=MaterialDesignIcons&logoColor=green"/> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=green"/> 
+</div>
+
 
 
 ### Tool
