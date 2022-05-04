@@ -4,4 +4,4 @@
 
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSS-61DAFB?style=flat-square&logo=JSS&logoColor=red"/>
+<img src="https://img.shields.io/badge/JSS-F7DF1E?style=flat-square&logo=JSS&logoColor=red"/>
