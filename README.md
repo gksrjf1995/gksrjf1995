@@ -7,3 +7,6 @@
  <img src="https://img.shields.io/badge/Nodejs-000000?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gksrjf1995)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksrjf6306)](https://solved.ac/gksrjf6306)
