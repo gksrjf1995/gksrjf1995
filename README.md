@@ -6,7 +6,7 @@
 
  ## MY TECH :computer:
  ### platform & language 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/JSS-F7DF1E?style=flat-square&logo=JSS&logoColor=red"/> <img src="https://img.shields.io/badge/Nodejs-000000?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/JSS-F7DF1E?style=flat-square&logo=JSS&logoColor=red"/> <img src="https://img.shields.io/badge/Nodejs-000000?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 
 ### USe style  
 <img src="https://img.shields.io/badge/MaterialDesign-757575?style=flat-square&logo=MaterialDesign&logoColor=000000"/> <img src="https://img.shields.io/badge/MaterialDesignIcons-757575?style=flat-square&logo=MaterialDesignIcons&logoColor=green"/> 
